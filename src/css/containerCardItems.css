@@ -1,0 +1,23 @@
+.containerCardItems{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;  
+   align-items: center;
+}
+
+.CardItems{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+    justify-content: center;
+    
+}
+
+.Img {
+    height: 100%;
+    transform: scale(0,5);
+}
